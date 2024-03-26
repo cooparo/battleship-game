@@ -1,4 +1,4 @@
-# Charizard 🔥🔥🔥 - Final Project
+# Battleship
 
 ## Instructions to compile
 *Make sure you've installed CMake.*
@@ -9,9 +9,9 @@
 
 ## Executables
 We ship with 3 executables, saved in `./build`.
-1. `battaglia_navale`, the log.txt file is saved in the current directory.
-2. `replay`
-3. `charizard`, an interactive executable, tribute to the name of this group.
+1. `battaglia_navale`, the actual game, the log file log.txt is saved in the current directory;
+2. `replay`, you can review games that you played;
+3. `charizard`, an interactive executable, tribute to the group name.
 
 ## Logs
 We saved the log files in the `./logs` folder.
