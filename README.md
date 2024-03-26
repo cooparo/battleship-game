@@ -9,8 +9,8 @@
 
 ## Executables
 We ship with 3 executables, saved in `./build`.
-1. `battaglia_navale`, the actual game, the log file log.txt is saved in the current directory;
-2. `replay`, you can review games that you played;
+1. `battaglia_navale`, the actual game;
+2. `replay`, you can review games that you have played;
 3. `charizard`, an interactive executable, tribute to the group name.
 
 ## Logs
